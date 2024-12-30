@@ -1,8 +1,10 @@
 <h1>Hi, I'm Arjun! </h1>
 
 <h2>👨‍💻 What am I doing right now?:</h2>
-- <b>Pump System Controls on a Turbopump (C++)</b>
-  - [LaunchCanada Turbopump](https://www.launchcanada.org/rocket-turbopump-project)
+<ul>
+  <li><b>Pump System Controls on a Turbopump (C++)</b></li>
+  <li><a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump</a></li>
+</ul>
 
 
 <h2> 🤳 Connect with me!: </h2>
