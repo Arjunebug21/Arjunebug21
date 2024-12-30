@@ -1,12 +1,12 @@
 <h1>Hi, I'm Arjun! </h1>
 
 <h2>🤔 What am I doing right now?:</h2>
-- <b>Turbopump Controls System Development(State Machine with C++)</b>
+- <b>Turbopump Controls System Development (State Machine with C++)</b>
   | <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
   | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
 
 <h2>🌱 Past Projects:</h2>
-- <b>Anduril-1 Structural Analysis(UVic Rocketry)</b>
+- <b>Anduril-1 Structural Analysis (UVic Rocketry)</b>
   | <a href="https://onlineacademiccommunity.uvic.ca/rocketry/">UVic Rocketry Web Page</a>
 
 
