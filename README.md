@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 What am I doing right now?:</h2>
 - <b>Turbopump Controls System Development(State Machine with C++)</b>
-  - <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
-  - <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
+  | <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
+  | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
 
 
 <h2> 🤳 Connect with me!: </h2>
