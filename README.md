@@ -13,7 +13,7 @@
   </li>
   <li>
     <b>Simple RISC Machine (SystemVerilog)</b> 
-    | <a href="https://github.com/Arjunebug21/SimpleRISCMachine">Computing Processing Unit Github Page</a>
+    | <a href="https://github.com/Arjunebug21/SimpleRISCMachine">Computer Processing Unit Github Page</a>
   </li>
 </ul>
 
