@@ -8,6 +8,8 @@
 <h2>🌱 Past Projects:</h2>
 - <b>Anduril-1 Structural Analysis (UVic Rocketry)</b>
   | <a href="https://onlineacademiccommunity.uvic.ca/rocketry/">UVic Rocketry Web Page</a>
+- <b>Simple RISC Machine (SystemVerilog)</b>
+  | <a href="https://github.com/Arjunebug21/SimpleRISCMachine">Computing Processing Unit Github Page</a>
 
 
 <h2> 🤳 Connect with me!: </h2>
