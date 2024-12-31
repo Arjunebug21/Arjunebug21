@@ -13,7 +13,11 @@
   </li>
   <li>
     <b>Simple RISC Machine (SystemVerilog)</b> 
-    | <a href="https://github.com/Arjunebug21/SimpleRISCMachine">Computer Processing Unit Github Page</a>
+    | <a href="https://github.com/Arjunebug21/SimpleRISCMachine">Computer Processing Unit Github Repo</a>
+  </li>
+  <li>
+    <b>Wireless Garden Monitor on Raspberry Pi (Python + Javascript + HTML/CSS)</b> 
+    | <a href="https://github.com/ENGR120-G09-Green-Thumbed-Individuals/GardenMonitorScript">Garden Monitor Github Repo</a>
   </li>
 </ul>
 
@@ -27,17 +31,3 @@
 [instagram]: https://www.instagram.com/arjunp2121/
 [linkedin]: https://www.linkedin.com/in/arjun-p-89231519a/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
