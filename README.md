@@ -1,9 +1,17 @@
 <h1>Hi, I'm Arjun! </h1>
 
 <h2>🤔 What am I doing right now?:</h2>
-<b>Turbopump Controls System Development (State Machine with C++)</b>
-  | <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
-  | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
+<ul>
+  <li>
+    <b>Turbopump Controls System Development (State Machine with C++)</b>
+      | <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
+      | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
+  </li>
+  <li>
+    <b>I'm taking CS50P (Fundamentals of Python from HarvardX)</b>
+    | <a href="https://github.com/Arjunebug21/LearningPython/tree/main">Learning Python Repo</a>
+  </li>
+</ul>
 
 <h2>🌱 Past Projects:</h2>
 <ul>
