@@ -8,7 +8,7 @@
       | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
   </li>
   <li>
-    <b>I'm taking CS50P (Fundamentals of Python from HarvardX)</b>
+    <b>Learning Python (CS50P from HarvardX)</b>
     | <a href="https://github.com/Arjunebug21/LearningPython/tree/main">Learning Python Repo</a>
   </li>
 </ul>
