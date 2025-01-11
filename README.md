@@ -42,7 +42,7 @@
 [leetcode]: https://leetcode.com/u/Arjunbug/
 
 <br><h2> 👾 My Languages: </h2>
-C/C++ ⭐️⭐️⭐️⭐️<br>
+'C/C++' ⭐️⭐️⭐️⭐️<br>
 Verilog/SystemVerilog ⭐️⭐️⭐️<br>
 Java ⭐️⭐️⭐️<br>
 Python ⭐️<br>
