@@ -35,9 +35,11 @@
 
 [<img align="left" alt="Arjun Pathak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Arjun Pathak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Arjun Pathak | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 [instagram]: https://www.instagram.com/arjunp2121/
 [linkedin]: https://www.linkedin.com/in/arjun-p-89231519a/
+[leetcode]: https://leetcode.com/u/Arjunbug/
 
 <br><h2> 👾 My Languages: </h2>
 C/C++ ⭐️⭐️⭐️⭐️<br>
