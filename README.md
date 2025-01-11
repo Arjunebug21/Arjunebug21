@@ -40,10 +40,10 @@
 [linkedin]: https://www.linkedin.com/in/arjun-p-89231519a/
 
 <h2> 👾 My Languages: </h2>
-C/C++ ⭐️⭐️⭐️⭐️
-Verilog/SystemVerilog ⭐️⭐️⭐️
-Java ⭐️⭐️⭐️
-Python ⭐️
-HTML/CSS ⭐️
-Javascript ⭐️
+C/C++ ⭐️⭐️⭐️⭐️<br>
+Verilog/SystemVerilog ⭐️⭐️⭐️<br>
+Java ⭐️⭐️⭐️<br>
+Python ⭐️<br>
+HTML/CSS ⭐️<br>
+Javascript ⭐️<br>
 
