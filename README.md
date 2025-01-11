@@ -39,3 +39,11 @@
 [instagram]: https://www.instagram.com/arjunp2121/
 [linkedin]: https://www.linkedin.com/in/arjun-p-89231519a/
 
+<h2> 👾 My Languages: </h2>
+C/C++ ⭐️⭐️⭐️⭐️
+Verilog/SystemVerilog ⭐️⭐️⭐️
+Java ⭐️⭐️⭐️
+Python ⭐️
+HTML/CSS ⭐️
+Javascript ⭐️
+
