@@ -12,7 +12,7 @@
       | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
   </li>
   <li>
-    <b>Learning Python (CS50P from HarvardX)</b>
+    <b>Various Python Projects </b>
     | <a href="https://github.com/Arjunebug21/LearningPython/tree/main">Learning Python Repo</a>
   </li>
 </ul>
