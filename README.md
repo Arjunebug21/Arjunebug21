@@ -44,7 +44,7 @@
 C/C++ ⭐️⭐️⭐️⭐️<br>
 Verilog/SystemVerilog ⭐️⭐️⭐️<br>
 Java ⭐️⭐️⭐️<br>
-Python ⭐️<br>
+Python ⭐️⭐️⭐️<br>
 HTML/CSS ⭐️<br>
 Javascript ⭐️<br>
 
