@@ -7,15 +7,6 @@
       | <a href="ubcorbit.com">UBC Orbit Web Page</a>
   </li>
   <li>
-    <b>Turbopump Controls System Development (State Machine with C++)</b>
-      | <a href="https://www.launchcanada.org/rocket-turbopump-project">LaunchCanada Turbopump Web Page</a>
-      | <a href="https://github.com/Launch-Canada/Pump-Controller-Embedded">LaunchCanada Turbopump Github Page</a>
-  </li>
-  <li>
-    <b>ELEC 291</b>
-    | <a href="https://github.com/Arjunebug21/ELEC291">ELEC291 Repo</a>
-  </li>
-  <li>
     <b>Various Python Projects </b>
     | <a href="https://github.com/Arjunebug21/LearningPython/tree/main">Learning Python Repo</a>
   </li>
