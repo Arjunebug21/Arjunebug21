@@ -8,7 +8,7 @@
   </li>
   <li>
     <b>I'm learning how to make PCBs</b>
-      | <a href="(https://github.com/Arjunebug21/LearningPCB)">My PCB Repo</a>
+      | <a href="https://github.com/Arjunebug21/LearningPCB">My PCB Repo</a>
   </li>
   <li>
     <b>Various Python Projects </b>
