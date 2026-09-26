@@ -7,6 +7,10 @@
       | <a href="ubcorbit.com">UBC Orbit Web Page</a>
   </li>
   <li>
+    <b>I'm learning how to make PCBs</b>
+      | <a href="(https://github.com/Arjunebug21/LearningPCB)">My PCB Repo</a>
+  </li>
+  <li>
     <b>Various Python Projects </b>
     | <a href="https://github.com/Arjunebug21/LearningPython/tree/main">Learning Python Repo</a>
   </li>
